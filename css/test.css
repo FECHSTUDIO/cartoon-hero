@@ -1,0 +1,31 @@
+body{
+	background-color: lightgray;
+}
+
+h1 {
+	font-family: helvetica; 
+	font-weight: 100;
+	color: #FFC300;
+	font-size: 100px;
+}
+p {
+	font-family: helvetica; 
+	font-weight: 900;
+	font-size: 50px;
+	color: gray;
+}
+a {
+	font-family: helvetica; 
+	font-weight: 100; 
+	font-size: 50px;
+}
+
+.salmon_100{
+	font-size: 50px; 
+	color: salmon;
+}
+
+.rojo_50{
+	font-size: 50px; 
+	color: red;
+}
